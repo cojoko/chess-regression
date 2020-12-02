@@ -10,4 +10,4 @@ This site was built using [GitHub Pages](Chess-Vision/Chess-Vision-1.png).
     </embed>
 </object>
 
-https://docs.google.com/viewer?url=${Chess-Vision.pdf}
+https://docs.google.com/viewer?url=${https://github.com/Colin-Kohli/chess-regression/blob/main/Chess-Vision.pdf}
