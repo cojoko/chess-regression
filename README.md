@@ -11,3 +11,4 @@ This site was built using [GitHub Pages](Chess-Vision/Chess-Vision-1.png).
 </object>
 
 
+https://nbviewer.jupyter.org/github/Colin-Kohli/chess-regression/blob/main/Chess-Vision.pdf
