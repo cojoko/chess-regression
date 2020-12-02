@@ -9,3 +9,5 @@ This site was built using [GitHub Pages](Chess-Vision/Chess-Vision-1.png).
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="Chess-Vision.pdf">Download PDF</a>.</p>
     </embed>
 </object>
+
+https://docs.google.com/viewer?url=${Chess-Vision.pdf}
